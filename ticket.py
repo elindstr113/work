@@ -1,4 +1,6 @@
 #!/usr/bin/python2
+#Added to github 2013-02-05
+
 import os
 
 basePath = "/media/temp/Python/"
